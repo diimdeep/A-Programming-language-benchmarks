@@ -10,6 +10,15 @@
 
 - Language Performance Comparisons Are Junk (2024-12-20) https://www.youtube.com/watch?v=RrHGX1wwSYM
 
+- Reaction to Levenshtein distance "Bouncing balls" https://x.com/cmuratori/status/1870199185972347274
+> Please stop creating microbenchmarks without analysis. If you haven't read the assembly for each run, you have no idea what you're actually benchmarking. This creates a lot of work for people like me who have to clean up the wave of misunderstandings. It is very frustrating.
+
+> They cannot be improved. This is not an appropriate use of microbenchmarking, full stop.
+
+> The point is that microbenchmarks test other things than what they claim, so without the analysis, you draw the wrong conclusion.
+
+> The entire exercise seems in bad faith.
+
 - Why I Hate Language Benchmarks (2024-01-22) https://www.gingerbill.org/article/2024/01/22/comparing-language-benchmarks/
 
 ## Hall of shame
