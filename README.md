@@ -31,6 +31,8 @@ The Original "Bouncing balls" that triggered me to start this list:
 
 > The Sliding lines https://x.com/BenjDicken/status/1863977678690541570
 
+> The Levenshtein distance "Bouncing balls" https://x.com/BenjDicken/status/1869412072318283783
+
 ## The usual in no particular order
 
 - The Computer Language Benchmarks Game https://benchmarksgame-team.pages.debian.net/benchmarksgame/
