@@ -33,7 +33,7 @@ The Original "Bouncing balls" that triggered me to start this list:
 
 > The Levenshtein distance "Bouncing balls" https://x.com/BenjDicken/status/1869412072318283783
 
-## The usual in no particular order
+## The Usual Suspects
 
 - The Computer Language Benchmarks Game https://benchmarksgame-team.pages.debian.net/benchmarksgame/
 
@@ -74,7 +74,7 @@ The Original "Bouncing balls" that triggered me to start this list:
 
 - Benchmark some scientific computations for various languages & libraries https://github.com/Axect/Scientific_Bench
 
-## You're Joking Mr
+## Surely You're Joking, Mr.
 
 - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
