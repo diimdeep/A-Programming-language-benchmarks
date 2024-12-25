@@ -46,7 +46,7 @@ The Original "Bouncing balls" that triggered me to start this list:
 > It's inspired by Benchmarks Game, some of the benchmark problems and implementation are borrowed from it.
 > https://programming-language-benchmarks.vercel.app
 
-- The One Billion Row Challenge https://www.morling.dev/blog/one-billion-row-challenge/
+- comparing the execution speeds of various programming languages https://github.com/jabbalaci/SpeedTests
 
 - Prime Number Projects in C#/C++/Python https://github.com/PlummersSoftwareLLC/Primes
 
@@ -55,10 +55,6 @@ The Original "Bouncing balls" that triggered me to start this list:
 - Some benchmarks of different languages https://github.com/kostya/benchmarks
 
 - Benchmark for interpreted languages implementations. https://github.com/kostya/jit-benchmarks
-
-- How has PyPy performance evolved over time? https://speed.pypy.org/
-
-- YJIT Benchmarks https://speed.yjit.org/
 
 - Rust scripting languages benchmark  https://github.com/khvzak/script-bench-rs
 
@@ -73,6 +69,18 @@ The Original "Bouncing balls" that triggered me to start this list:
 - A simple web benchmark of C++, Crystal, Go, Java, Node.js, PHP, Python, Rust and Scala. https://github.com/nuald/simple-web-benchmark
 
 - Benchmark some scientific computations for various languages & libraries https://github.com/Axect/Scientific_Bench
+
+## Real Jobs
+
+- The One Billion Row Challenge https://www.morling.dev/blog/one-billion-row-challenge/
+
+## Self track
+
+- How has PyPy performance evolved over time? https://speed.pypy.org/
+
+- YJIT Benchmarks https://speed.yjit.org/
+
+- Performance Tracking for Zig https://github.com/ziglang/gotta-go-fast
 
 ## Surely You're Joking, Mr.
 
